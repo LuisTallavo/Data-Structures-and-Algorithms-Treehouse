@@ -22,6 +22,6 @@ def verify(result):
 
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
-result = Recursive_Binary_Search(numbers, 4)
+result = Recursive_Binary_Search(numbers, 15)
 verify(result)
 
